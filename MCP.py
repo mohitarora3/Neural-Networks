@@ -36,7 +36,7 @@ def NOR(x,y):
 
 
 def main():
-    print("--------Perceptron Model---------")
+    print("--------MCP Model---------")
     X = (0,0,1,1)
     Y = (0,1,0,1)
     

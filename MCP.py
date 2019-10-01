@@ -46,8 +46,8 @@ def main():
    
     if ch==1:
         print("---------NOT GATE---------")
-        print("(0)=",Not(0))
-        print("(1)=",Not(1))
+        print("(0)=",NOT(0))
+        print("(1)=",NOT(1))
  
     elif ch==2:
         print("---------OR GATE---------")
